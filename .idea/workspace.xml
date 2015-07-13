@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="32" selection-start="732" selection-end="732" vertical-scroll-proportion="0.052197803" vertical-offset="337" max-vertical-offset="1365">
+            <state line="25" column="32" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0" vertical-offset="337" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="29" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.9230769" vertical-offset="0" max-vertical-offset="795">
               <folding />
             </state>
           </provider>
@@ -34,10 +43,16 @@
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -341,7 +356,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="32" selection-start="732" selection-end="732" vertical-scroll-proportion="0.052197803" vertical-offset="337" max-vertical-offset="1365">
+        <state line="25" column="32" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0" vertical-offset="337" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="29" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.9230769" vertical-offset="0" max-vertical-offset="795">
           <folding />
         </state>
       </provider>
