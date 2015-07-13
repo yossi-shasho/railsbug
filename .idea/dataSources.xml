@@ -28,7 +28,7 @@
     <data-source source="LOCAL" name="Rails railsbug: production" uuid="ae09a020-ba9e-444a-bff0-0c644879bfe2">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:railsbug_production</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/railsbug_production</jdbc-url>
       <user-name>railsbug</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdfe3dfe6dff9dfe8dfffdfeddff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
       <libraries>
