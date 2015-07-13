@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2829227525">
+    <data-source source="LOCAL" name="Rails railsbug: development" uuid="628933ee-fcaf-487c-a085-cb31920ffa34">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:railsbug_development</jdbc-url>
+      <user-name>railsbug</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails railsbug: test" uuid="9c76181c-41ee-4e59-8756-1108bcc85d7e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:railsbug_test</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails railsbug: production" uuid="ae09a020-ba9e-444a-bff0-0c644879bfe2">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:railsbug_production</jdbc-url>
+      <user-name>railsbug</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdfe3dfe6dff9dfe8dfffdfeddff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails railsbug: staging" uuid="9936e1a1-b7fe-4adb-93f4-6f304c4fc648">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV['RDS_HOSTNAME'] %&gt;:&lt;%= ENV['RDS_PORT'] %&gt;/&lt;%= ENV['RDS_DB_NAME'] %&gt;</jdbc-url>
+      <user-name>&lt;%= ENV['RDS_USERNAME'] %&gt;</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfeedff9dff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails railsbug: default" uuid="a38f016a-e777-4eca-8d2f-e26be0aaa911">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV['RDS_HOSTNAME'] %&gt;:&lt;%= ENV['RDS_PORT'] %&gt;/&lt;%= ENV['RDS_DB_NAME'] %&gt;</jdbc-url>
+      <user-name>&lt;%= ENV['RDS_USERNAME'] %&gt;</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfeedff9dff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails railsbug: default_dev" uuid="f6322b00-6121-4ca0-aeb7-76b09bbe666d">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://&lt;%= ENV['RDS_HOSTNAME'] || 'localhost' %&gt;:&lt;%= ENV['RDS_PORT'] || '5432' %&gt;/&lt;%= ENV['RDS_DB_NAME'] || 'railsbug' %&gt;</jdbc-url>
+      <user-name>&lt;%= ENV['RDS_USERNAME'] || 'silo' %&gt;</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfeedff9dff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adfd6dfd6df8adf8ddfd9dfc3dfc6dfc5dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf8ddf8adf8fdf94</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails railsbug: development" uuid="628933ee-fcaf-487c-a085-cb31920ffa34">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails railsbug: test" uuid="9c76181c-41ee-4e59-8756-1108bcc85d7e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails railsbug: production" uuid="ae09a020-ba9e-444a-bff0-0c644879bfe2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails railsbug: staging" uuid="9936e1a1-b7fe-4adb-93f4-6f304c4fc648">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails railsbug: default" uuid="a38f016a-e777-4eca-8d2f-e26be0aaa911">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails railsbug: default_dev" uuid="f6322b00-6121-4ca0-aeb7-76b09bbe666d">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
