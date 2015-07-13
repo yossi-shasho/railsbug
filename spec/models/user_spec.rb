@@ -12,6 +12,5 @@ RSpec.describe User, type: :model do
       @task = Task.create! taskable: @project, email: @user.email
       expect(User.user_with_own_tasks(@user.email)).to eq [@user]
     end
-
   end
 end
