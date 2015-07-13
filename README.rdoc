@@ -1,5 +1,5 @@
 == Rails 4.2.3 regression demonstration
 
-This project demonstrates a regression in Rails 4.2.3 that I found I upgraded from 4.1.6.
+This project demonstrates a regression in Rails 4.2.3 that I found when I upgraded from 4.1.6.
 
 See the issue here: https://github.com/rails/rails/issues/20863
