@@ -1,7 +1,7 @@
 class User < ActiveRecord::Base
   has_many :projects
 
-  def self.user_with_own_tasks(email)
+  def self.users_with_own_tasks
     User
     .where(
         Project
