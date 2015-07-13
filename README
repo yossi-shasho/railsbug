@@ -1,3 +1,0 @@
-This project demonstrates a regression in Rails 4.2.3 that we found when we upgraded from 4.1.6
-
-See the issue here: https://github.com/rails/rails/issues/20863
